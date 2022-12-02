@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"day02":[["impl Freeze for <a class=\"enum\" href=\"day02/enum.ShapeCode.html\" title=\"enum day02::ShapeCode\">ShapeCode</a>",1,["day02::ShapeCode"]],["impl Freeze for <a class=\"enum\" href=\"day02/enum.RoundResultsCode.html\" title=\"enum day02::RoundResultsCode\">RoundResultsCode</a>",1,["day02::RoundResultsCode"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
